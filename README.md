@@ -8,6 +8,14 @@ Images Files:
 CSV:
  - filename-class.csv: CSV file with fruit filename and its respective class (kind of fruit)
 
+Features:
+ - Fourier.arff: Fourier transform computed from X and Y coordinates of the fruit contour
+ - RGBcomFundo.arff: statistical descriptors from RGB information -- with background
+ - RGBsemFundo.arff: statistical descriptors from RGB information -- without background
+ - RGBcomFundo_Fourier: combination of 'Fourier.arff' and 'RGBcomFundo.arff' features
+ - RGBsemFundo_Fourier: combination of 'Fourier.arff' and 'RGBsemFundo.arff' features
+ 
+
 Papers:
 
 [1] Priscila A. Macanhã, Danilo Medeiros Eler, Rogério E. Garcia, Wilson E. Marcilio Junior (2017).
