@@ -1,14 +1,12 @@
 # fruitdataset
 Fruit Dataset - 163 instances of 15 classes of fruits.
 
-Images Files:
- - fuits.zip: original images
+Images:
+ - fuits.zip: original color images
  - fruitsContour.zip: binary images with countour of each fruit
- 
-CSV:
  - filename-class.csv: CSV file with fruit filename and its respective class (kind of fruit)
 
-Features:
+Features (ARFF file format):
  - Fourier.arff: Fourier transform computed from X and Y coordinates of the fruit contour
  - RGBcomFundo.arff: statistical descriptors from RGB information -- with background
  - RGBsemFundo.arff: statistical descriptors from RGB information -- without background
