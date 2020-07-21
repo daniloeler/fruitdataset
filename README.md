@@ -1,14 +1,15 @@
 # fruitdataset
-Fruit Dataset - 163 instances of 15 classes of fruits
+Fruit Dataset - 163 instances of 15 classes of fruits.
 
-Images Files:
+#Images Files:
  - fuits.zip: original images
  - fruitsContour.zip: binary images with countour of each fruit
  
-CSV:
+#CSV:
  - filename-class.csv: CSV file with fruit filename and its respective class (kind of fruit)
 
-Papers: 
+#Papers:
+
 [1] Priscila A. Macanhã, Danilo Medeiros Eler, Rogério E. Garcia, Wilson E. Marcilio Junior (2017).
 Handwritten Feature Descriptor Methods Applied to Fruit Classification.
 In Proceedings of the 14th International Conference on Information Technology: New Generations, pages 699-705.
