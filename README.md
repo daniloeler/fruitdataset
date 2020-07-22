@@ -1,5 +1,5 @@
 # fruitdataset
-Fruit Dataset - 163 instances of 15 classes of fruits.
+Fruit Dataset - 163 images of 15 classes of fruits.
 
 Images:
  - fuits.zip: original color images
@@ -10,8 +10,9 @@ Features (ARFF file format):
  - Fourier.arff: Fourier transform computed from X and Y coordinates of the fruit contour
  - RGBcomFundo.arff: statistical descriptors from RGB information -- with background
  - RGBsemFundo.arff: statistical descriptors from RGB information -- without background
- - RGBcomFundo_Fourier: combination of 'Fourier.arff' and 'RGBcomFundo.arff' features
- - RGBsemFundo_Fourier: combination of 'Fourier.arff' and 'RGBsemFundo.arff' features
+ - RGBcomFundo_Fourier.arff: combination of 'Fourier.arff' and 'RGBcomFundo.arff' features
+ - RGBsemFundo_Fourier.arff: combination of 'Fourier.arff' and 'RGBsemFundo.arff' features
+ - PEx-Image-features.arff: PEx-Image image features -- see PExImage-Features.pdf
  
 
 Papers:
