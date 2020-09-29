@@ -31,5 +31,5 @@ http://iris.sel.eesc.usp.br/wvc/Anais_2015/Proceedings_WVC2015.pdf
 [3] Priscila A. Macanhã, Wilson E. Marcilio Junior, Danilo Medeiros Eler, Rogério E. Garcia, Ronaldo C. M. Correia (2015).
 New Approaches of Feature Extraction from Fruits to Augmented Reality Systems.
 In Proceedings of the XII Workshop de Realidade Virtual e Aumentada, pages 42-47.
-
+https://github.com/daniloeler/wrva2015_anais
 
